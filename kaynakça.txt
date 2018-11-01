@@ -1,0 +1,7 @@
+http://semihmalkoc.com/jdbc-ile-veritabani-baglantisi-ve-veritabani-islemleri/  -----  ekleme iþlemleri için güzel 
+http://www.lionblogger.com/java-application-mysql-database/    ------- login iþlemleri
+https://stackoverflow.com/questions/13448368/trying-to-display-url-image-in-jframe   ----- resim gösterimi
+https://stackoverflow.com/questions/10563619/error-code-2013-lost-connection-to-mysql-server-during-query  ----- mysql hatalar
+http://hrzafer.com/sql-15-group-by-ifadesi    ---------- sql bilgi kaynaðý
+https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-count-with-distinct.php  --- sql bilgi kaynaðý
+https://www.youtube.com/watch?v=qAuV5PjOCzc    ------- icepdf
